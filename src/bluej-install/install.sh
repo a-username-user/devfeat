@@ -6,4 +6,4 @@ apt-get install -y --no-install-recommends jdk-21
 FILENAME="BlueJ-linux-x64-541.deb"
 cd /tmp
 wget https://www.bluej.org/download/files/"${FILENAME}"
-apt install ./"${FILENAME}"
+apt install -y ./"${FILENAME}"

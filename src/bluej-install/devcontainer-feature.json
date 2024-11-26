@@ -1,7 +1,7 @@
 {
   "name": "BlueJ Install Feature",
   "id": "bluej-install",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Installs the BlueJ IDE",
   "installsAfter": [
         "ghcr.io/devcontainers/features/common-utils"
